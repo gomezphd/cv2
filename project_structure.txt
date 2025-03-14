@@ -1,0 +1,36 @@
+Folder PATH listing for volume Files
+Volume serial number is B6A6-D4ED
+D:.
+|   Gomez_CV_Week3_Image_Processing.ipynb
+|   Gomez_C_cv_week2.ipynb
+|   project_structure.txt
+|   
+\---Mod1
+    |   Apollo-11-launch.jpg
+    |   Apollo-8-Launch.jpg
+    |   Apollo-8-Launch.png
+    |   checkerboard_color.png
+    |   CR_logo.png
+    |   Eagle_in_Flight.jpg
+    |   Emerald_Lakes_New_Zealand.jpg
+    |   Emerald_Lakes_New_Zealand_scr.jpg
+    |   facebook_logo.jpg
+    |   img_bw_18x18.png
+    |   img_bw_64x64.png
+    |   MNIST_3_18x18.png
+    |   Modified-image.jpg
+    |   New_Zealand_Boat.jpg
+    |   Pytorch_logo.png
+    |   readme.md
+    |   resized_cropped_region_2x.png
+    |   SAVED.jpg
+    |   
+    \---visuals
+            c0-m1-Appolo-Exercise-01-01.png
+            c0-m1-Appolo-Exercise-01-04.png
+            c0-m1-Canoe-Exercise-01-03.png
+            c0-m1-Emerald-lake-Exercise-01-02.png
+            c0-m1-Facebook-logo.jpg
+            c0-m1-Image-Coordinates.png
+            c0-m1-Pytorch-logo.png
+            
